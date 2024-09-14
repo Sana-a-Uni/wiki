@@ -1,0 +1,53 @@
+[
+ {
+  "dark_mode_logo": null,
+  "docstatus": 0,
+  "doctype": "Wiki Space",
+  "light_mode_logo": null,
+  "modified": "2024-05-16 22:49:18.634338",
+  "name": "vo3i5ij1eg",
+  "navbar_items": [],
+  "route": "wiki",
+  "wiki_sidebars": []
+ },
+ {
+  "dark_mode_logo": null,
+  "docstatus": 0,
+  "doctype": "Wiki Space",
+  "light_mode_logo": null,
+  "modified": "2024-05-16 22:56:07.008721",
+  "name": "vs382ibles",
+  "navbar_items": [],
+  "route": "academiaEn",
+  "wiki_sidebars": [
+   {
+    "hide_on_sidebar": 0,
+    "parent": "vs382ibles",
+    "parent_label": "New Group",
+    "parentfield": "wiki_sidebars",
+    "parenttype": "Wiki Space",
+    "wiki_page": "vs36h2ck1b"
+   }
+  ]
+ },
+ {
+  "dark_mode_logo": null,
+  "docstatus": 0,
+  "doctype": "Wiki Space",
+  "light_mode_logo": null,
+  "modified": "2024-05-17 14:54:23.104852",
+  "name": "vsm8vgevfb",
+  "navbar_items": [],
+  "route": "academiaAr",
+  "wiki_sidebars": [
+   {
+    "hide_on_sidebar": 0,
+    "parent": "vsm8vgevfb",
+    "parent_label": "New Group",
+    "parentfield": "wiki_sidebars",
+    "parenttype": "Wiki Space",
+    "wiki_page": "vsm69gubjt"
+   }
+  ]
+ }
+]
