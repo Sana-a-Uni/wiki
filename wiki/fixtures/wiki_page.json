@@ -1,0 +1,30 @@
+[
+ {
+  "allow_guest": 1,
+  "content": "<div><p>A council Doctype is a template for a Council which contains an number of academic members and administrative employees. A council meets up once a month to discuses department related topics .</p><p><img alt=\"Council Create\" class=\"screenshot\" contenteditable=\"false\" draggable=\"true\" src=\"/files/Council Create.png\"/><img alt=\"\" class=\"ProseMirror-separator\"/><br class=\"ProseMirror-trailingBreak\"/></p><blockquote><p>Home &gt; Academia &gt; Council</p></blockquote><h2 style=\"text-align: start;\">1. Prerequisites</h2><p style=\"text-align: start;\">Before creating and using Councils, it is advised that you create the following first:</p><ul><li><p><a href=\"https://docs.erpnext.com/docs/user/manual/en/company-setup\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Company</a></p></li><li><p><a href=\"https://frappehr.com/docs/v14/en/department\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Department</a></p></li><li><p><a href=\"https://frappehr.com/docs/v14/en/employee\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Employee</a></p></li></ul><h2><strong>2. How to create a Council</strong></h2><ol><li><p>Go to the Council list, click on New.</p></li><li><p>Enter Council name.</p></li><li><p>Select Company name.</p></li><li><p>Select Department name.</p></li><li><p>Select the Council members and there roles</p></li><li><p>Save.</p></li></ol><blockquote><p>Note: When Selecting the Council members, we can check the get from other companies checkbox to get employees from other companies</p></blockquote><h2><strong>3. Features</strong></h2><p><br/><strong>3.1 Get members</strong></p><p><strong>It is a built in advance multiselect search tool that allows faster retrieval of employees to be added as council members</strong></p><p><img alt=\"Council Search\" contenteditable=\"false\" draggable=\"true\" src=\"/files/Council Search.png\"/><strong> </strong></p><p><br/><br class=\"ProseMirror-trailingBreak\"/></p><p><br class=\"ProseMirror-trailingBreak\"/></p></div>",
+  "docstatus": 0,
+  "doctype": "Wiki Page",
+  "meta_description": null,
+  "meta_image": null,
+  "meta_keywords": null,
+  "modified": "2024-05-17 01:51:11.638101",
+  "name": "vs36h2ck1b",
+  "published": 1,
+  "route": "academiaEn/new-wiki-page",
+  "title": "Council Doctype"
+ },
+ {
+  "allow_guest": 1,
+  "content": "<div><h1 style=\"text-align: right;\">وثيقة المجلس</h1><p style=\"text-align: right;\">وثيقة المجلس عبارة عن نموذج للمجلسالذي يحتوي على عدد من الأعضاء الأكاديميين والموظفين الإداريين. يجتمع المجلس مرة كل شهر لمناقشة المواضيع المتعلقة بالقسم</p><p style=\"text-align: right;\"><br class=\"ProseMirror-trailingBreak\"/></p><p style=\"text-align: right;\"><img alt=\"Council Create\" class=\"screenshot\" contenteditable=\"false\" draggable=\"true\" src=\"/files/Council Create.png\"/><img alt=\"\" class=\"ProseMirror-separator\"/><br class=\"ProseMirror-trailingBreak\"/></p><blockquote><p style=\"text-align: right;\">الرئيسية &gt; اكاديمية &gt; مجلس</p></blockquote><h2 style=\"text-align: right;\">1. المتطلبات الأساسية</h2><p style=\"text-align: right;\">قبل إنشاء المجالس واستخدامها، يُنصح بإنشاء ما يلي أولاً:</p><ul><li><p style=\"text-align: right;\"><a href=\"https://docs.erpnext.com/docs/user/manual/en/company-setup\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">شركة</a></p></li><li><p style=\"text-align: right;\"><a href=\"https://frappehr.com/docs/v14/en/department\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">قسم</a></p></li><li><p style=\"text-align: right;\"><a href=\"https://frappehr.com/docs/v14/en/employee\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">موظف</a></p></li></ul><h2 style=\"text-align: right;\">2. كيفية إنشاء المجلس</h2><ol><li><p style=\"text-align: right;\">انتقل إلى قائمة المجالس، وانقر على جديد.</p></li><li><p style=\"text-align: right;\">أدخل اسم المجلس.</p></li><li><p style=\"text-align: right;\">حدد اسم الشركة.</p></li><li><p style=\"text-align: right;\">اختر اسم القسم.</p></li><li><p style=\"text-align: right;\">حدد أعضاء المجلس وأدوارهم</p></li><li><p style=\"text-align: right;\">احفظ.</p><p style=\"text-align: right;\"><br class=\"ProseMirror-trailingBreak\"/></p></li></ol><blockquote><p style=\"text-align: right;\">ملاحظة عند إختيار الاغضاء نستطيع جلب اعضاء من اقسام أخرى عن طريق تفعيل جلب من شركات أخرى</p></blockquote><h2 style=\"text-align: right;\">3. الميزات</h2><h3 style=\"text-align: right;\">3.1 الحصول على الأعضاء</h3><p style=\"text-align: right;\">إنها أداة بحث متعددة التحديد مدمجة مسبقًا تسمح باسترجاع الموظفين بشكل أسرع ليتم إضافتهم كأعضاء في المجلس</p><p style=\"text-align: right;\"><img alt=\"Council Search\" class=\"screenshot\" contenteditable=\"false\" draggable=\"true\" src=\"/files/Council Search.png\"/><img alt=\"\" class=\"ProseMirror-separator\"/><br class=\"ProseMirror-trailingBreak\"/></p><p style=\"text-align: right;\"><br class=\"ProseMirror-trailingBreak\"/></p></div>",
+  "docstatus": 0,
+  "doctype": "Wiki Page",
+  "meta_description": null,
+  "meta_image": null,
+  "meta_keywords": null,
+  "modified": "2024-05-17 14:55:24.174767",
+  "name": "vsm69gubjt",
+  "published": 1,
+  "route": "academiaAr/new-wiki-page",
+  "title": "وثيقة المجلس"
+ }
+]
